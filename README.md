@@ -1,6 +1,3 @@
-To display your tech stack in a row instead of stacking it vertically, you can use the following method in your `README.md` file. Here’s the updated version where the tech stack is displayed in a flex row:
-
-```markdown
 # Hello and Welcome! 👋
 
 I'm **Olaniyi Emmanuel Olafusi**, a full-stack developer, DevOps enthusiast, and cybersecurity advocate, dedicated to building scalable, secure, and efficient software solutions. Whether it's crafting dynamic web applications, streamlining operations, or ensuring data and application security, I'm always driven by innovation and impact.
@@ -11,7 +8,6 @@ I'm **Olaniyi Emmanuel Olafusi**, a full-stack developer, DevOps enthusiast, and
 
 - **Full-Stack Development**  
   I design and build scalable web applications, specializing in both front-end and back-end development. With expertise in technologies like React, Node.js, Django, and Spring Boot, I create dynamic user experiences while ensuring robust back-end systems.
-  
 - **DevOps & Cloud Infrastructure**  
   With hands-on experience in DevOps, I automate and optimize workflows to ensure seamless deployment, performance monitoring, and continuous integration. I’m proficient in managing cloud infrastructures using AWS, Azure, and containerizing applications with Docker and Kubernetes.
 
@@ -86,6 +82,3 @@ I'm always open to new opportunities, collaborations, and discussions. Whether y
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-olafusi/)  
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OlaniyiOlafusi/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_beloved11/)
-```
-
-This should display the tech stack in a horizontal row rather than stacking vertically. By using a `<div>` tag, the shields will be aligned in one line, making the profile look neat and organized.
